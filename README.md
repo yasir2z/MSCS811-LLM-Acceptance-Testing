@@ -1,9 +1,7 @@
 # An Agile/XP Framework for LLM-Assisted Acceptance Test Generation from User Stories
 
-**Author:** Yasir Saleh Alzahrani  
-**Student ID:** 4714392  
-**Section:** M1  
-**Course:** MSCS811, Taibah University
+**Author:** Yasir Alzahrani  
+
 
 ## Idea
 
